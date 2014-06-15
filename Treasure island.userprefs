@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScripts\TreasureIsland.cs">
+    <Files>
+      <File FileName="Assets\MyScripts\TreasureIsland.cs" Line="24" Column="39" />
+      <File FileName="Assets\MyScripts\Level1_FireBall.cs" Line="133" Column="157" />
+      <File FileName="Assets\MyScripts\Level1_Cells.cs" Line="268" Column="114" />
+      <File FileName="Assets\MyScripts\Level1_Fire.cs" Line="19" Column="96" />
+      <File FileName="Assets\MyScripts\Level1_Sound.cs" Line="8" Column="2" />
+      <File FileName="Assets\MyScripts\Level1_CameraPosition.cs" Line="24" Column="76" />
+      <File FileName="Assets\MyScripts\menu_game.cs" Line="71" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
